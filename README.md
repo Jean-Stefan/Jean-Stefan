@@ -1,4 +1,4 @@
-Olá, sou o Jean!
+# Olá, sou o Jean!
 
 Estou cursando Análise e Desenvolvimento de Sistemas na [Pontifícia Universidade Católica de Minas Gerais](https://www.pucminas.br/).
 Sou graduado em Ciências Contábeis com ênfase em Controladoria e pós-graduado em Gestão Fiscal e Tributária.
